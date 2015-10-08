@@ -1,17 +1,12 @@
 {
-  "name": "cordova-plugin-transport-security",
+  "name": "cordova-plugin-spiir-ios9",
   "version": "0.1.0",
-  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
-  "description": "Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' by adding a declaration to the Info.plist file to bypass the iOS 9 App Transport Security",
+  "description": "Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' and make sure of 'Fullscreen usage'",
   "cordova": {
-    "id": "cordova-plugin-transport-security",
+    "id": "cordova-plugin-spiir-ios9",
     "platforms": [
       "ios"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leecrossley/cordova-plugin-transport-security.git"
   },
   "keywords": [
     "cordova",
@@ -34,10 +29,5 @@
       "name": "cordova",
       "version": ">=3.0.0"
     }
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leecrossley/cordova-plugin-transport-security/issues"
-  },
-  "homepage": "https://github.com/leecrossley/cordova-plugin-transport-security#readme"
+  ]
 }
