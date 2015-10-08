@@ -13,7 +13,7 @@
       </config-file>
 
       <config-file target="*-Info.plist" parent="UIRequiresFullScreen">  
-        <string>YES</string> 
+          <string>YES</string> 
       </config-file>
 
   

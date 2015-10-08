@@ -1,29 +1,13 @@
 {
   "name": "cordova-plugin-spiir-ios9",
   "version": "0.1.0",
-  "description": "Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' and make sure of 'Fullscreen usage'",
+  "description": "Cordova / PhoneGap Plugin to allow 'HTTPS' and make sure of 'Fullscreen usage'",
   "cordova": {
     "id": "cordova-plugin-spiir-ios9",
     "platforms": [
       "ios"
     ]
   },
-  "keywords": [
-    "cordova",
-    "ios",
-    "app",
-    "security",
-    "transport",
-    "http",
-    "https",
-    "ats",
-    "ssl",
-    "tls",
-    "nsapptransportsecurity",
-    "nsallowsarbitraryloads",
-    "ecosystem:cordova",
-    "cordova-ios"
-  ],
   "engines": [
     {
       "name": "cordova",
